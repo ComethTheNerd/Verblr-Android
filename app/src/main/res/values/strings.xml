@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Verblr</string>
+    <string name="app_version">1.2.2</string>
+    <string name="platform">android</string>
+    <string name="general_notification_channel_id">General</string>
+
+    <string name="subscription_product_group_id">subscription</string>
+    <string name="topup_product_group_id">topup</string>
+
+    <string name="deep_link_protocol">https</string>
+    <string name="deep_link_host">verblr.com</string>
+    <string name="deep_link_path">/intent</string>
+    <string name="deep_link_param_name_action">a</string>
+    <string name="deep_link_param_name_url">u</string>
+    <string name="deep_link_action_name_add">add</string>
+
+    <string name="confirm_dialog_notifications_disabled_title">Notifications</string>
+    <string name="confirm_dialog_notifications_disabled_message">Verblr uses notifications to auto refresh your library. You have notifications disabled, would you like to enable them in your settings?</string>
+    <string name="confirm_dialog_article_failed_title">Article Failed</string>
+    <string name="confirm_dialog_article_failed_message">An error occurred whilst processing this article. Would you like to open the website to try again?</string>
+
+    <string name="user_add_article_to_user_library_notification_type">user-add-article-to-user-library</string>
+    <string name="user_access_performance_notification_type">user-access-performance</string>
+    <string name="subscription_lapsed_notification_type">subscription-lapsed</string>
+    <string name="invite_accepted_notification_type">invite-accepted</string>
+    <string name="unspent_credit_reminder_notification_type">unspent-credit-reminder</string>
+    <string name="invitation_reward_reminder_notification_type">invitation-reward-reminder</string>
+
+    <string name="ad_feed_placement_id">XXX</string>
+    <string name="ad_gateway_placement_id">XXX</string>
+    <string name="ad_overlay_placement_id">XXX</string>
+
+    <string name="alert_dialog_title">Uh oh</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+</resources>
